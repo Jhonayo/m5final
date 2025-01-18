@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="m5final:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e3b0a40e-27c6-4d78-a74b-26d85e675dc2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../M4/finalM4/src/main/java/org/example/Util/Utilidad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../M4/finalM4/src/main/java/org/example/model/Alumno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../M4/finalM4/src/main/java/org/example/model/Materia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../M4/finalM4/src/main/java/org/example/model/MateriaEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../M4/finalM4/src/main/java/org/example/service/AlumnoServicio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../M4/finalM4/src/main/java/org/example/service/ArchivoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../M4/finalM4/src/main/java/org/example/view/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../M4/finalM4/src/main/java/org/example/view/MenuTemplate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M4/M4S10/ M4S10.eml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M4/M4S10/ M4S10.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M4/M4S10/ M4S10.userlibraries" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M4/M4S10/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M4/M4S10/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M4/M4S10/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M4/M4S10/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M4/M4S10/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M4/M4S10/M4S10.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M4/M4S10/src/M4S10/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M4/M4S10/src/M4S10/interfaces/IAccionesComunes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M4/M4S10/src/M4S10/interfaces/IAmonestable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M4/M4S10/src/M4S10/interfaces/IMovimientoJugador.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M4/M4S10/src/M4S10/model/DirectorTecnico.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M4/M4S10/src/M4S10/model/Jugador.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M4/M4S10/src/M4S10/model/Persona.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M4/M4S10/src/M4S10/testeofuncional.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M4/M4S10/src/M4S10/util/Tarjeta.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M4/M4S10_juan_ramirez.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M4/M4S11/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M4/M4S11/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M4/M4S11/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M4/M4S11/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M4/M4S11/M4S11.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M4/M4S11/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M4/S11fail/ M4S11.eml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M4/S11fail/ M4S11.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M4/S11fail/ M4S11.userlibraries" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M4/S11fail/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M4/S11fail/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M4/S11fail/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M4/S11fail/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M4/S11fail/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M4/S11fail/M4S11.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M4/S11fail/src/drilling/videoclub/controller/ArriendoController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M4/S11fail/src/drilling/videoclub/controller/VideoClub.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M4/S11fail/src/drilling/videoclub/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M4/S11fail/src/drilling/videoclub/model/Pelicula.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M4/S11fail/src/drilling/videoclub/model/Usuario.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M4/S11fail/src/drilling/videoclub/payment/PagoEfectivo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M4/S11fail/src/drilling/videoclub/payment/PagoTarjetaDebito.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M4/S11fail/src/drilling/videoclub/utils/FactoryArriendo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M4/S11fail/src/drilling/videoclub/utils/SingletonUsuario.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M4/S11fail/src/drilling/videoclub/view/MenuPrincipal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M4/demo/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M4/demo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M4/demo/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M4/demo/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M4/demo/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M4/demo/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M4/demo/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M4/demo/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M4/demo/src/main/java/com/example/demo/DemoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M4/demo/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M4/demo/src/test/java/com/example/demo/DemoApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M4/final/control-notas/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M4/final/control-notas/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M4/final/control-notas/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M4/final/control-notas/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M4/final/control-notas/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M4/final/control-notas/src/main/java/model/Alumno.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M4/final/control-notas/src/main/java/model/Clase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M4/final/control-notas/src/main/java/model/MateriaEnum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M4/final/control-notas/src/main/java/service/AlumnoService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M4/final/control-notas/src/main/java/service/ArchivoService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M4/final/control-notas/src/main/java/util/Utils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M4/final/control-notas/src/main/java/view/Menu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M4/final/control-notas/src/main/java/view/MenuTemplate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M4/formatoBasico/ M4S10.eml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M4/formatoBasico/ M4S10.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M4/formatoBasico/ M4S10.userlibraries" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M4/formatoBasico/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../M4/formatoBasico/src/M4S10/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/edutecno/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/edutecno/dao/HoroscopoDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/edutecno/dao/HoroscopoDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/edutecno/dao/UsuarioDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/edutecno/dao/UsuarioDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/edutecno/modelo/HoroscopoEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/edutecno/modelo/HoroscopoEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/edutecno/modelo/UsuarioEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/edutecno/modelo/UsuarioEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/edutecno/servlets/gestion/BuscarUsuariosServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/edutecno/servlets/gestion/ListarUsuariosServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/edutecno/servlets/gestion/ListarUsuariosServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/edutecno/servlets/gestion/ModificarUsuarioServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/edutecno/servlets/gestion/ModificarUsuarioServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/edutecno/servlets/permisos/AuthFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/edutecno/servlets/permisos/AuthFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/script.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/script.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/listarusuarios.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/listarusuarios.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/main.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/main.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/modal.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/modal.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/registro.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/registro.jsp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2r8kPdgspooHV6EAGQlbTmvsZZ5" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;Tomcat Server.Tomcat 10.1.34.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/Jhonayo/Workspace/Bootcamp/evaluaciones/M5/m5final/src/main/webapp&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propCompiler&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/webapp" />
+      <recent name="$PROJECT_DIR$/src/main/webapp/admin" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/webapp" />
+      <recent name="$PROJECT_DIR$/src/main/webapp/user" />
+      <recent name="$PROJECT_DIR$/src/main/webapp/admin" />
+      <recent name="$PROJECT_DIR$/src/main/webapp/images" />
+      <recent name="$PROJECT_DIR$/src/main/resources/META-INF" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.edutecno.servlets.gestion" />
+      <recent name="org.edutecno.servlets" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 10.1.34" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 10.1.34" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="m5final:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="f8fb9162-4be3-41ac-8a2d-ea322e41fcea" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="61342" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="m5final:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.22562.218" />
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-IU-243.22562.218" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e3b0a40e-27c6-4d78-a74b-26d85e675dc2" name="Changes" comment="" />
+      <created>1735948069881</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1735948069881</updated>
+      <workItem from="1735948071082" duration="1480000" />
+      <workItem from="1735964528815" duration="1497000" />
+      <workItem from="1735966311116" duration="1735000" />
+      <workItem from="1736015679398" duration="538000" />
+      <workItem from="1736016275358" duration="5452000" />
+      <workItem from="1736038080372" duration="42039000" />
+      <workItem from="1736297243949" duration="5897000" />
+      <workItem from="1736398543406" duration="2414000" />
+      <workItem from="1736461055197" duration="11386000" />
+      <workItem from="1736541110529" duration="5650000" />
+      <workItem from="1736553400026" duration="702000" />
+      <workItem from="1736811792333" duration="1229000" />
+      <workItem from="1736813344077" duration="831000" />
+      <workItem from="1736829940463" duration="244000" />
+      <workItem from="1736882547731" duration="3971000" />
+      <workItem from="1736984785649" duration="1493000" />
+      <workItem from="1737001917979" duration="3760000" />
+      <workItem from="1737055527401" duration="400000" />
+      <workItem from="1737064610150" duration="4502000" />
+      <workItem from="1737089627566" duration="1944000" />
+      <workItem from="1737143849567" duration="9563000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
